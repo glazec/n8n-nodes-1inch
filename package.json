@@ -6,7 +6,7 @@
 		"n8n-community-node-package"
 	],
 	"license": "MIT",
-	"homepage": "https://n8n.io",
+	"homepage": "https://github.com/glazec/n8n-nodes-1inch",
 	"author": {
 		"name": "Test",
 		"email": "test@example.com"
